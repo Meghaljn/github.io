@@ -1,0 +1,34 @@
+div.reg
+{
+	margin-left:auto;
+	margin-right:auto;
+	margin-bottom:auto;
+	margin-top:auto;
+	background-position:centre;
+}
+.reg img{
+	width:200px;
+	height:230px;
+	border-radius: 50%;
+	position:centre;
+}
+ul{
+	
+	list-style-type:none;
+	margin :30px;
+	padding :10;
+		
+}
+li{
+	float:left;
+	margin-left:10px;
+	border-color:white;
+	border :solid;
+	display :inline;
+	
+}
+body{
+	background-color:lightblue;
+	color:darkblue;
+	text-align:center;
+}
